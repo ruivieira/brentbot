@@ -68,4 +68,9 @@ public class Bot {
 
     }
 
+    public IRCApi getApi() {
+        return api;
+    }
+
+
 }
